@@ -48,4 +48,4 @@ parseFloat("1.12356");
 var x= parseInt("hello world");
 
 console.log(x);
-// "hello world" is not a number so it return undefined 
+// "hello world" is not a number so it returns undefined 
