@@ -1,15 +1,35 @@
 .box1 {
-width:200px;
-border: 2px dotted black;
+width: 200px;
+border: 2px dotted grey;
 padding: 10px 20px;
 margin: 15px;
-background-color: grey;
+background-color: lightgrey;
 }
 
 .box2 {
-width:200px;
-border: 2px dotted black;
+width: 200px;
+border: 2px dotted grey;
 padding: 10px 20px;
 margin: 15px;
-background-color: grey;
+background-color: lightgrey;
+}
+
+.box3 {
+width: 200px;
+padding: 10px;
+margin: 15px;
+background-color: lightgrey;
+}
+
+.box4 {
+width: 200px;
+border: 10px solid lightgrey;
+margin: 15px;
+}
+
+div img {
+display: block;
+max-width:100%;
+max-width:100%;
+margin: auto;
 }
