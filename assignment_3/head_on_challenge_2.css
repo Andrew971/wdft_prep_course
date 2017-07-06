@@ -1,0 +1,15 @@
+.box1 {
+width:200px;
+border: 2px dotted black;
+padding: 10px 20px;
+margin: 15px;
+background-color: grey;
+}
+
+.box2 {
+width:200px;
+border: 2px dotted black;
+padding: 10px 20px;
+margin: 15px;
+background-color: grey;
+}

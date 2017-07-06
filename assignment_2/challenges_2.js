@@ -36,7 +36,7 @@ switch(choice1) {
 console.log(reply1);
 }
     
-console.log("Your ball was the number", choice1);
+console.log("Your ball was the number", choice1e);
 
 }
 
