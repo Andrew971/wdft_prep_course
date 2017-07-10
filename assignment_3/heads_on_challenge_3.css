@@ -1,0 +1,36 @@
+.row {
+    width: auto;
+    height: 150px;
+    margin-bottom: 20px;
+    font-size: 0;
+    position: relative;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin-right: 20px;
+}
+
+.first-row {
+    display: inline-block;
+}
+
+.float {
+    float: left;
+}
+
+.position1{
+    position: absolute;
+}
+
+.position2{
+    position: absolute;
+    left: 170px;
+}
+
+.position3{
+    position: absolute;
+    left: 340px;
+}
